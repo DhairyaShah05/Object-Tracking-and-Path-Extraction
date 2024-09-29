@@ -1,4 +1,4 @@
-# Object Tracking and Centroid Detection
+# Object Tracking and Path Extraction
 
 This project uses a Python script to process video frames, detect dark pixels, calculate their centroids, and perform curve fitting for object tracking. The script is implemented using OpenCV, NumPy, and Matplotlib libraries. It also integrates with Google Colab for handling files stored in Google Drive.
 
